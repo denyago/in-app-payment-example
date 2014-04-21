@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bad News</string>
+    <string name="header">Get some news</string>
+    <string name="buy_button">Buy!</string>
+
+</resources>
